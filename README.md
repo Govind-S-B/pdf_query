@@ -10,7 +10,7 @@ It uses Zephyr-7B for the LLM model and Stella for the embedding model and Chrom
 
 ## Running Locally
 install [ollama](https://ollama.ai/download)
-and have it up and running with command ollama serve ( applicable to some systems only )  
+and have it up and running with command `ollama serve` ( applicable to some systems only )  
 
 download the required model ( this can be changed in this [line](https://github.com/Govind-S-B/pdf_query/blob/f80867040a419d2963b157d4e38c17676f2080aa/pages/query_pdf.py#L14C1-L15C1) )
 ```
